@@ -1,4 +1,4 @@
-public class EstruturaCondicional {
+public class EstruturaCondicionalIfElse {
     public static void main(String[] args) {
         double media = 7.5;
         if (media >= 7.0) {
