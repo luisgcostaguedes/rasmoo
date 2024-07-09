@@ -1,3 +1,4 @@
+package Aulas;
 public class EstruturaCondicionalIfElse {
     public static void main(String[] args) {
         double media = 7.5;

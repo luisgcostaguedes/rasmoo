@@ -1,3 +1,4 @@
+package Aulas;
 public class JavaAulas {
   public static void main(String[] args) {
     double salarioAnual = 98275.67;

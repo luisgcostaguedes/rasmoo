@@ -1,3 +1,4 @@
+package Aulas;
 public class EstruturaRepeticao {
   public static void main(String[] args) {
     int contador = 4;
@@ -13,9 +14,9 @@ public class EstruturaRepeticao {
 
     System.out.println("----------------------------------------------------");
 
-    // do {
-    // System.out.println("Contador do while: " + contador);
-    // contador++;
-    // } while (contador < 10);
+    do {
+    System.out.println("Contador do while: " + contador);
+    contador++;
+    } while (contador < 10);
   }
 }

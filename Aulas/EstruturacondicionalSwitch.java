@@ -1,3 +1,4 @@
+package Aulas;
 public class EstruturacondicionalSwitch {
   public static void main(String[] args) {
     int mes = 10;
